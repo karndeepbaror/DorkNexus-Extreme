@@ -4,12 +4,12 @@
 A curated and categorized list of *200+ Google Dorks* useful for OSINT, Reconnaissance, Web Vulnerability Discovery, and Security Learning.
 
 > ⚠️ *Important:* These queries are for educational and ethical research purposes only..  
-> Unauthorized access, exploitation, ya private data ko expose karna `illegal` hai.
+> Unauthorized access, Exploitation, or exposing private data is illegal.
  ‎
  ‎‎
 <div align="center">
     <a href="https://www.instagram.com/karndeepbaror/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=red&color=black" alt="Instagram Badge"/></a>
-    <a href="https://youtube.com/@cryptarea"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=red&color=black" alt="YouTube Badge"/></a>
+    <a href="https://youtube.com/@CryptonicArea"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=red&color=black" alt="YouTube Badge"/></a>
     <a href="https://t.me/CryptonicArea"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=red&color=black" alt="Telegram Badge"/></a>
 </div>
 
